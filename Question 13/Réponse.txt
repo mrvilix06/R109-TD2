@@ -1,0 +1,5 @@
+/!\ ATTENTION /!\
+IL FAUT FAIRE CET EXO SUR ISIS ET NON PAS SUR VOTRE ORDINATEUR
+
+Quand on insère du code dont on n’est pas l’auteur, on ne sait pas ce que fait ce code. Il
+pourrait être dangereux (récupérer des données ou en effacer ou en crypter)

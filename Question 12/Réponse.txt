@@ -1,0 +1,3 @@
+Pour fonctionner, il faut contacter un serveur web : avec l’url file, on reste en local, on ne
+passe pas par le serveur. Il faut se connecter à sa page via
+isis.unice.fr/~login/ext/cheminQuiMeneALaPage
